@@ -120,7 +120,6 @@ $james_edward_indice = james_edward_Facebook_Comments::PLUGIN_ID;
 
 $james_edward[$james_edward_indice] = new james_edward_Facebook_Comments();
 
-add_action("the_post", array($james_edward[$james_edward_indice]->getStaticVar('CLASS_NAME'), 'add_code'));
 add_filter("the_content", array($james_edward[$james_edward_indice]->getStaticVar('CLASS_NAME'), 'show_comments'),30);
 add_filter("admin_menu", array($james_edward[$james_edward_indice]->getStaticVar('CLASS_NAME'), 'options'),30);
 add_action('wp_head',array($james_edward[$james_edward_indice]->getStaticVar('CLASS_NAME'), 'add_admin'));
