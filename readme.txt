@@ -7,7 +7,7 @@ WordPress.org has identified this plugin to be spam.
 
 == Description ==
 
-WordPress.org has identified this plugin to be spam. It was never available for download here, but some may have downloaded it from elsewhere.
+WordPress.org has identified this plugin to be spam. 
 
 If you need a facebook plugin, try one of these. <a href="http://wordpress.org/extend/plugins/search.php?q=facebook">http://wordpress.org/extend/plugins/search.php?q=facebook</a>
 
