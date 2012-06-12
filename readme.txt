@@ -1,39 +1,18 @@
-=== Facebook ===
-Contributors: jamesedwart
-Donate link: 
-Tags: facebook, facebook plugin, facebook comments, facebook plugins, comments, comment, admin, link, links, fb, post, posts, shortcode, sidebar, social, share, widget, user, connect, register, login
-Requires at least: 3.0
-Tested up to: 3.3.2
-Stable tag: 2.4
+=== Facebook plugin ===
+Requires at least: 2.5.2
+Tested up to: 3.4
+Stable tag: 3.0
 
-Fully integration with Facebook. Includes Facebook login, Automatic user registration, Comments system and many more!
+WordPress.org has identified this plugin to be spam.
 
 == Description ==
 
-Full integration with Facebook.
+WordPress.org has identified this plugin to be spam. It was never available for download here, but some may have downloaded it from elsewhere.
 
-= Features =
+If you need a facebook plugin, try one of these. <a href="http://wordpress.org/extend/plugins/search.php?q=facebook">http://wordpress.org/extend/plugins/search.php?q=facebook</a>
 
-Build your community.
-Facebook login system.
-Send comments to Facebook feed.
-Commenting system.
-Automatic user registration.
-Invite your Facebook friends and much more!
+== Upgrade Notice ==
 
-== Installation ==
+= 3.0 =
+WordPress.org has identified this plugin to be spam. Please update to this version or delete the plugin.
 
-1. Download facebookplugin.zip and place in wp-content/plugins
-2. Login to your WordPress admin panel
-3. Go to Plugins and "Activate" the plugin
-4. Go to WP-Admin -> Facebook and specify required details
-
-== Frequently Asked Questions ==
-
-= Can I suggest features, ideas and other things? =
-Yes you can, just send me a message using my website at jamesedward.net78.net
-
-== Changelog ==
-
-= 2.3.8 =
-* Plugin publication
