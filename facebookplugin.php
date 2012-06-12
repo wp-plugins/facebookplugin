@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: FacebookPlugin
-Plugin URI: http://www.jamesedward.net78.net/1_3_Facebook-Comments.html
+Plugin URI: 
 Description: Allow your users to leave comments on your blog using their Facebook Accounts.
 Author: James Edwart
-Version: 2.3.8
-Author URI: http://jamesedward.net78.net/
+Version: 2.4
+Author URI: 
 */
 
 

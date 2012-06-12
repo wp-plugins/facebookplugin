@@ -1,10 +1,10 @@
 === Facebook ===
 Contributors: jamesedwart
-Donate link: http://jamesedward.net78.net/
+Donate link: 
 Tags: facebook, facebook plugin, facebook comments, facebook plugins, comments, comment, admin, link, links, fb, post, posts, shortcode, sidebar, social, share, widget, user, connect, register, login
 Requires at least: 3.0
 Tested up to: 3.3.2
-Stable tag: 2.3.8
+Stable tag: 2.4
 
 Fully integration with Facebook. Includes Facebook login, Automatic user registration, Comments system and many more!
 
